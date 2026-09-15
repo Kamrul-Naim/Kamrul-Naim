@@ -12,7 +12,7 @@
 
 <br/><br/> -->
 
-<a href="https://my-portfolio-one-rho-95.vercel.app">
+<a href="https://kamrulnaim.netlify.app">
 <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-00c6ff?style=for-the-badge"/>
 </a>
 
@@ -117,7 +117,7 @@ Farmers can upload their available egg stock and products, while shopkeepers can
 
 <div align="center">
 
-<a href="https://farm2-shop-a-direct-farmer-to-shopk.vercel.app">
+<a href="https://farm2shop.netlify.app">
 <img src="https://img.shields.io/badge/🌐%20Live%20Demo-00c6ff?style=for-the-badge"/>
 </a>
 
@@ -186,7 +186,7 @@ Each role has its own authentication flow, dashboard, permissions, and functiona
 
 <div align="center">
 
-<a href="https://pulse-care-medical-appointment-mana.vercel.app">
+<a href="https://pulsecare4u.netlify.app">
 <img src="https://img.shields.io/badge/🌐%20Live%20Demo-00c6ff?style=for-the-badge"/>
 </a>
 
@@ -226,7 +226,7 @@ Users can browse popular movies, search for movies by title, and save their favo
 
 <div align="center">
 
-<a href="https://moviehub-khaki-seven.vercel.app">
+<a href="https://moviehub4ru.netlify.app">
 <img src="https://img.shields.io/badge/🌐%20Live%20Demo-00c6ff?style=for-the-badge"/>
 </a>
 
